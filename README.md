@@ -22,7 +22,7 @@
 - 🔧 Je m'intéresse actuellement aux projets liés à l'IoT et la Blockchain dans la sécuritation des transacactions.
 - 🤝 Je cherche à contribuer à des projets open source et à des recherches en lien avec l'IoT et l'optimisation des systèmes embarqués. N'hésitez pas à me contacter si vous pensez que je peux être utile !<br> 
 - 📝 J'aimes concevoir des solutions innovantes en électronique et systèmes embarqués.
-- 🌐 Découvrez mes projets et contributions sur [GitHub](https://github.com/ton-profil), où je partage mes travaux sur l'IoT et l'électronique. 
+- 🌐 Découvrez mes projets et contributions sur [GitHub](https://github.com/Alex-Yanne-Kafando), où je partage mes travaux sur l'IoT et l'électronique. 
 
 📫 Comment me contacter : Sur [LinkedIn](https://www.linkedin.com/in/alexkafando/)  
 
