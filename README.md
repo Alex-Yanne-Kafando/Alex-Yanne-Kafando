@@ -38,12 +38,13 @@
 
 ## 🛠️💻 Outils 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Jupyter-orange?logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/-PyCharm-green?logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/-Postman-orange?logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/-RStudio-blue?logo=rstudio&logoColor=white" alt="RStudio"/>
-  <img src="https://img.shields.io/badge/-Anaconda-darkgreen?logo=anaconda&logoColor=white" alt="Anaconda"/>
+<p align="left"> 
+  
+<img src="https://camo.githubusercontent.com/e3d574f640ecf24dedfd6ac547d34c31af6e23fbbb73f962c09f636197aaaf56/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a7570797465722f6a7570797465722d6f726967696e616c2d776f72646d61726b2e737667" alt="Jupyter" style="height: 25px;"/>
+<img src="https://camo.githubusercontent.com/36135c12ff1a60ee93d5e918983f8506ca618dcd8374490464c6f5dafc195259/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e737667" alt="Visual Studio Code" style="height: 25px;"/>
+<img src="https://camo.githubusercontent.com/452856a61e4b0d9bad66681cc34f240d30585986c716f8d252386bca282dde43/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31642f5079436861726d5f49636f6e2e7376672f6c616e6766722d32323070782d5079436861726d5f49636f6e2e7376672e706e67" alt="PyCharm Icon" style="height: 25px;"/>
+<img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" alt="Anaconda" style="height: 20px;"/>
+
 </p>
 
 
