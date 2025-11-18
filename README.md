@@ -24,7 +24,7 @@
 - 📝 J'aimes concevoir des solutions innovantes en électronique et systèmes embarqués.
 - 🌐 Découvrez mes projets et contributions sur [GitHub](https://github.com/Alex-Yanne-Kafando), où je partage mes travaux sur l'IoT et l'électronique. 
 
-📫 Comment contacter : Sur [LinkedIn](https://www.linkedin.com/in/alexkafando/)  
+📫 Contacter moi : Sur [LinkedIn](https://www.linkedin.com/in/alexkafando/)  
 
 
 
