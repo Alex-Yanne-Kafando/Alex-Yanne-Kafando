@@ -8,7 +8,7 @@
 
 
 
->:pushpin:Je m'appelle **Alex Yanne Reginald KAFANDO** et je suis apprenti ingénieur en Electronique et Systèmes de Télécommunication.<br>
+>:Je m'appelle **Alex Yanne Reginald KAFANDO** et je suis apprenti ingénieur en Electronique et Systèmes de Télécommunication.<br>
 >:pushpin:Passionné par les technologies de pointes et les innovations dans le domaine des télécommunications et de l'IoT,<br>
 >je suis constamment à la recherche de nouvelles connaissances et compétences pour améliorer mes capacités techniques et analytiques.<br>
 >
