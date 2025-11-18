@@ -8,11 +8,11 @@
 
 
 
->:Je m'appelle **Alex Yanne Reginald KAFANDO** et je suis apprenti ingénieur en Electronique et Systèmes de Télécommunication.<br>
->:pushpin:Passionné par les technologies de pointes et les innovations dans le domaine des télécommunications et de l'IoT,<br>
+>Je m'appelle **Alex Yanne Reginald KAFANDO** et je suis apprenti ingénieur en Electronique et Systèmes de Télécommunication.<br>
+>Passionné par les technologies de pointes et les innovations dans le domaine des télécommunications et de l'IoT,<br>
 >je suis constamment à la recherche de nouvelles connaissances et compétences pour améliorer mes capacités techniques et analytiques.<br>
 >
->:pushpin:J'aime relever des défis complexes et trouver des solutions innovantes.<br>
+>J'aime relever des défis complexes et trouver des solutions innovantes.<br>
 >Vous pouvez en savoir plus sur moi et mes projets sur mon [site Web](https://ton-site.com).
 >
 >:bulb: *"L'électronique est le langage de l'avenir, et l'Internet des objets est sa voix."* <sub>Jean-Pierre Deschamps </sub>
