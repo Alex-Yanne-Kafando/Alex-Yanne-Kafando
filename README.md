@@ -6,8 +6,6 @@
   Salut
 </p>
 
-<img align="right" alt="codingGuy" width="400" src="https://user-images.githubusercontent.com/78427456/218422081-c342b121-29eb-4c94-abaf-0afd5b04ed12.png">
-
 
 >Je m'appelle **Alex Yanne Reginald KAFANDO** et je suis apprenti ingénieur en Electronique et Systèmes de Télécommunication.<br>
 >Passionné par les technologies de pointes et les innovations dans le domaine des télécommunications et de l'IoT,<br>
